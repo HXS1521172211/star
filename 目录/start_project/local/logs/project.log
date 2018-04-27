@@ -1,0 +1,52 @@
+2018-04-26T00:34:57.803Z - normal: Load ~/.CocosCreator/settings.json
+2018-04-26T00:34:57.814Z - normal: checking language setting...
+2018-04-26T00:34:57.814Z - normal: Language: zh
+2018-04-26T00:35:01.494Z - success: protocol editor-framework registered
+2018-04-26T00:35:01.495Z - success: protocol app registered
+2018-04-26T00:35:01.495Z - success: protocol theme registered
+2018-04-26T00:35:01.495Z - success: protocol profile registered
+2018-04-26T00:35:01.495Z - success: protocol packages registered
+2018-04-26T00:35:01.495Z - success: protocol unpack registerred
+2018-04-26T00:35:01.496Z - success: protocol disable-commonjs registerred
+2018-04-26T00:35:02.008Z - normal: connected!
+2018-04-26T00:35:02.018Z - normal: Check project F:\移动应用\目录\start_project
+2018-04-26T00:35:02.024Z - normal: Initializing Cocos2d
+2018-04-26T00:35:03.232Z - normal: Initializing Asset Database
+2018-04-26T00:35:03.320Z - success: protocol uuid registerred
+2018-04-26T00:35:03.321Z - success: protocol db registerred
+2018-04-26T00:35:03.321Z - success: protocol thumbnail registerred
+2018-04-26T00:35:03.321Z - normal: Loading editor/builtin packages
+2018-04-26T00:35:03.399Z - success: anysdk loaded
+2018-04-26T00:35:03.737Z - success: assets loaded
+2018-04-26T00:35:03.741Z - success: builder loaded
+2018-04-26T00:35:03.749Z - success: hierarchy loaded
+2018-04-26T00:35:03.755Z - success: inspector loaded
+2018-04-26T00:35:03.757Z - success: keystore loaded
+2018-04-26T00:35:03.764Z - success: node-library loaded
+2018-04-26T00:35:03.767Z - success: package-asset loaded
+2018-04-26T00:35:03.772Z - success: preferences loaded
+2018-04-26T00:35:03.807Z - success: project-importer loaded
+2018-04-26T00:35:03.811Z - success: project-settings loaded
+2018-04-26T00:35:03.818Z - success: ui-kit loaded
+2018-04-26T00:35:03.863Z - success: ui-grid loaded
+2018-04-26T00:35:03.870Z - success: scene loaded
+2018-04-26T00:35:03.877Z - success: sprite-editor loaded
+2018-04-26T00:35:03.886Z - success: store loaded
+2018-04-26T00:35:03.896Z - success: timeline loaded
+2018-04-26T00:35:03.897Z - normal: Loading builtin packages
+2018-04-26T00:35:03.914Z - success: asset-db-debugger loaded
+2018-04-26T00:35:03.917Z - success: code-editor loaded
+2018-04-26T00:35:03.926Z - success: color-picker loaded
+2018-04-26T00:35:03.935Z - success: console loaded
+2018-04-26T00:35:03.941Z - success: package-manager loaded
+2018-04-26T00:35:03.969Z - success: sdkbox loaded
+2018-04-26T00:35:03.977Z - success: tester loaded
+2018-04-26T00:35:03.984Z - success: ui-kit-preview-extra loaded
+2018-04-26T00:35:03.990Z - success: ui-kit-preview loaded
+2018-04-26T00:35:03.994Z - success: ui-tree loaded
+2018-04-26T00:35:06.930Z - normal: Initializing project F:\移动应用\目录\start_project
+2018-04-26T00:35:06.941Z - normal: Loading packages
+2018-04-26T00:35:06.953Z - normal: Watching packages
+2018-04-26T00:35:06.985Z - normal: Run Application
+2018-04-26T00:35:08.579Z - success: preview server running at http://localhost:7456
+2018-04-26T00:35:21.144Z - normal: 1.5.1
